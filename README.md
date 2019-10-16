@@ -1,6 +1,8 @@
 # Estudos-Flask
 Repositório referentes aos estudos de Flask.
 
+Anotações aleatórias :)
+
 venv/bin/pip3 install -r requeriments.txt - para instalar as dependencias quando o projeto por clonado
 
 Organização de arquivos > Modelo MVC: controllers, models, static, templates
@@ -16,3 +18,5 @@ follow (id, id_user, id_follower)
 Para fazer a comunicação com o banco de dados estarei usando o FlaskSQLAlchemy
 
 venv/bin/pip3 install flask-sqlalchemy
+
+venv/bin/pip3 freeze > requeriments.txt
